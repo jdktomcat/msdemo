@@ -36,6 +36,8 @@ public class MyBatisRunner {
                 System.out.println(sta.getStoreName());
             }
             System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+            System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+            System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
         } finally {
             session.close();
         }
