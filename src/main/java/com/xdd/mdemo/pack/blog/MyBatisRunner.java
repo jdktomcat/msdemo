@@ -35,14 +35,10 @@ public class MyBatisRunner {
             if(sta!=null){
                 System.out.println(sta.getStoreName());
             }
-            System.out.println("222222222222");
-            System.out.println("222222222222");
-            System.out.println("222222222222");
-            System.out.println("222222222222");
-            System.out.println("222222222222");
-            System.out.println("222222222222");
-            System.out.println("222222222222");
-            System.out.println("222222222222");
+            System.out.println("3333333333333");
+            System.out.println("3333333333333");
+            System.out.println("3333333333333");
+            System.out.println("3333333333333");
         } finally {
             session.close();
         }
