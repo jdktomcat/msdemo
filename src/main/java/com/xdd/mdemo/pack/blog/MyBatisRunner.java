@@ -37,6 +37,8 @@ public class MyBatisRunner {
             }
             System.out.println("222222222222");
             System.out.println("222222222222");
+            System.out.println("222222222222");
+            System.out.println("222222222222");
         } finally {
             session.close();
         }
