@@ -35,6 +35,9 @@ public class MyBatisRunner {
             if(sta!=null){
                 System.out.println(sta.getStoreName());
             }
+            System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+            System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+            System.out.println("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
             System.out.println("BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB");
             System.out.println("BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB");
             System.out.println("BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB");
